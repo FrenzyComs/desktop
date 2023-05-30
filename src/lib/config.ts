@@ -52,8 +52,8 @@ export function getBuildURL() {
         case "dev":
             return "http://local.revolt.chat:3001";
         case "nightly":
-            return "https://nightly.revolt.chat";
+            return "https://app.transfem.pp.ua";
         default:
-            return "https://app.revolt.chat";
+            return "https://app.transfem.pp.ua";
     }
 }
